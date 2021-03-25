@@ -1,0 +1,1 @@
+<div class="bx-form-input-wrapper bx-form-input-wrapper-<?php echo $a['type'];?><?php echo $a['class'];?>" <?php echo $a['attrs'];?>><?php echo $a['content'];?></div>
